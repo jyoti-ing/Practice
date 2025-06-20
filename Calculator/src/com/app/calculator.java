@@ -10,7 +10,7 @@ public class calculator {
 
 	public void subtraction()
 	{
-                int a=10;
+        int a=10;
 		int b=20;
 		int c=a-b;
 		System.out.println(c);
